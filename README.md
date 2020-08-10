@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head><title>TUSHYA TRIVEDI' RESUME</title></head>
 <body>
