@@ -1,5 +1,5 @@
 <html>
-<head><title>TUSHYA TRIVEDI' RESUME</title></head>
+<head><title>TUSHYA TRIVEDI RESUME</title></head>
 <body>
 <h1>TUSHYA TRIVEDI</h1>
 <table style="border:1px solid black;width:100%">
